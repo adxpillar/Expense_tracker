@@ -1,11 +1,6 @@
 from entry import Entry
 from datetime import datetime 
 
-# CLI app to keep record of expenses 
-# User should be able to:
-# Add expense, list expenses, get expense, edit expense, and delete expense
-# 100DaysOfMLCode # Python project suggested by @jangia : https://twitter.com/jangiacomelli/status/1331170946917384193
-
 def add_expense():
     """
     adds an expense record using Entry class
