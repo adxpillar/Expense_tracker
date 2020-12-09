@@ -88,7 +88,7 @@ def update_expense(search_term):
 def delete_expense(search_term):
     """
     # open the file and get all lines. Then reopen the file in write mode 
-    # and write lines back, except for the line you want to delete:
+    # and write lines back, except for the line you want to delete
     args: title of record
     return: none
     """
