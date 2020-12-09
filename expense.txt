@@ -1,1 +1,6 @@
-Food and drinks,20.0,2020-12-08 20:49:01,Door dash food
+Title, Amount, Created_at,   Tags
+Phone bill,50.0,2020-12-08 23:36:22,tools utilities
+Gas,30.0,2020-12-08 23:36:43,utilitiestennis,34.0,2020-12-08 23:47:42,hobby leisure
+water,1.0,2020-12-08 23:48:13,drink water
+tennis,21.0,2020-12-08 23:48:32,leisure
+mouse,34.0,2020-12-08 23:48:47,tools work
