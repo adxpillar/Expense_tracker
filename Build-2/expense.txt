@@ -1,0 +1,5 @@
+Tennis,23.0,2020-12-09 18:04:50,sports leisure hobby fitness
+Ice cream,12.0,2020-12-09 18:05:26,food refreshment
+Gas,65.0,2020-12-09 18:06:10,utiliy car maintenance
+Putin book,14.0,2020-12-09 18:07:43,knowledge learning hobby
+Phone bill,30.0,2020-12-09 18:08:58,utilities tools
