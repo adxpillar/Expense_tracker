@@ -1,4 +1,4 @@
-from entry import Entry
+from expense import Expense
 from datetime import datetime 
 
 def add_expense():
